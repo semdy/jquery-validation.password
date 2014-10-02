@@ -1,0 +1,17 @@
+{
+  "name": "jquery-validation.password",
+  "version": "1.0.0",
+  "homepage": "https://github.com/wangshijun/jquery-validation.password",
+  "authors": [
+    "jzaefferer"
+  ],
+  "description": "jquery validation password plugin",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
